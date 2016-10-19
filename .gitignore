@@ -1,3 +1,6 @@
-/.gs
-/.bundle
-/Gemfile.lock
+*
+
+!.gitignore
+!Gemfile
+!helper.rb
+!README.md
